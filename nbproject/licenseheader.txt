@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Confidential Source Code. No unauthorized copying or redistribution in parts or whole allowed. 
+${licensePrefix}Copyright 2017. Chiraag Bangera
+<#if licenseLast??>
+${licenseLast}
+</#if>
